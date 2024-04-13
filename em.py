@@ -43,4 +43,4 @@ l1.grid(row=1, column=0, sticky=NW, padx=5)
 
 relogio()
 
-janela.mainloop( 
+janela.mainloop()
